@@ -1,0 +1,67 @@
+LAB01
+
+Find and record the following:
+    * Processor (CPU) brand, model, and number of cores
+* Intel, Model 63 (Apple M1 Pro), Core(s) 10
+
+    * Total RAM amount and type (DDR4/DDR5)
+* 16GB, DDR5
+
+    * Storage device type (HDD/SSD) and capacity
+* SSD- 500GB
+
+    * Operating System version
+* macOS sequoia 15.0.1
+
+Analysis Questions:
+    * Based on your CPU cores, how many tasks can your processor theoretically handle simultaneously?
+* My processor can theoretically handle 10 tasks simultaneously
+
+    * Is your storage primarily HDD or SSD? What are the performance implications?
+* My storage is SSD, which provides very high performance compared to HDD
+
+    * How does your RAM amount compare to typical requirements for modern applications?
+* With 16GB or more, my MacBook Pro is above average for modern applications. 
+
+
+
+
+Process Management
+
+1. Open Activity Monitor
+Identify 5 running processes: examples might include
+
+-WindowServer
+
+-kernel_task
+
+-Activity Monitor
+
+-Chrome
+
+-Finder
+
+2. Find one process using the most CPU:
+-Zoom
+
+3. Memory Management
+In Activity Monitor:
+
+- 8 GB used out of 16 GB total.
+
+4. Find the application using the most memory:
+-Zoom
+
+
+Device Management
+
+5. Identify 3 types of hardware devices:
+-Apple M1 Pro (Processor), SSD Storage, Wi-Fi card, Graphics (Integrated GPU).
+
+
+
+Security Features
+-macOS doesn’t use Windows Defender, but it has XProtect (built-in antivirus) and Gatekeeper. These are always running in the background.
+
+Check if automatic updates are enabled:
+-Yes
